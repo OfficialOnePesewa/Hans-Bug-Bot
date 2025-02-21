@@ -9,22 +9,22 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "237696900612"
-global.ownername = "*Hans Tech"
-global.ytname = "YT: HansTech0"
+global.ownername = "*Official OnePesewa"
+global.ytname = "YT: @OfficialOnePesewa"
 global.socialm = ""
 global.location = "EARTH,AFRICA"
 
-global.ownernumber = '237696900612'  //creator number
-global.ownername = 'Harold MTH' //owner name
-global.botname = 'Hans-Bug-bot' //name of the bot
+global.ownernumber = '233544482494' //creator number
+global.ownername = 'Official OnePesewa'//owner name
+global.botname = 'OP-Bug-Bot' //name of the bot
 
 //sticker details
-global.packname = 'Sticker By Hans Tech'
-global.author = 'Hallo\n\nContact: 237696900612'
+global.packname = 'Sticker By OP Tech'
+global.author = 'Hallo\n\nContact: 233544482494'
 
 //console view/theme
 global.themeemoji = '😎'
-global.wm = "Hans Tech😏"
+global.wm = "OP Tech😏"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029VaZDIdxDTkKB4JSWUk1O'
@@ -34,12 +34,12 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = true //auto typing
+global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = false //auto update bio
 global.anti92 = false //auto block +92 
-global.autoswview = false //auto view status/story
+global.autorecord = true //auto view status/story
 
 //menu type 
 //v1 is image menu, 
